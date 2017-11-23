@@ -1,0 +1,11 @@
+Waffles Text Editor is made by Abhishek Tudu and Sanjay Sahu.
+Institute- Birla Institue Of Technology Mesra, Ranchi.
+
+*************************************************************
+This text editor is completely based on Java Swings API.
+This Project entirely explores all the concepts of Java Swings.
+*************************************************************
+This Project also uses some libraries:-
+JTattoo- For Look and Feel
+JFontChooser- For Choosing fonts.
+JOrtho- For Spell Checking.
